@@ -1,6 +1,6 @@
 
 
-#   JSON snippet for JSON  & Atom Lovers
+#   JSON snippet & Syntax color for JSON  & Atom Lovers
 
 Install:
 
@@ -16,6 +16,7 @@ Mian Features:
 
   Main Feature ❤️
 
+* Syntax Color
 
   | Name  |  snippet |
   |---|---|
