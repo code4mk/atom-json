@@ -40,6 +40,8 @@ Version:
   ```ssh
   apm install atom-axios
   ```
+  
+Syntax From  : `Atom-json-sntax`
 
   ---
 [![code4k](https://img.shields.io/badge/Powered-By-blue.svg)]()
