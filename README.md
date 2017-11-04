@@ -5,7 +5,7 @@
 Install:
 
 ```ssh
-apm install json
+apm install atom-json
 ```
 
 Doc : [wiki page](https://github.com/code4mk/atom-json/wiki)
